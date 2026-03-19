@@ -23,7 +23,7 @@ Before running the game, make sure you have the following prerequisites installe
 
 1. Clone the repository:
 
-git clone https://github.com/gopal96685/goflap
+
 
 
 2. Navigate to the project directory:
