@@ -85,11 +85,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
-- The Flappy Bird game concept was originally created by Dong Nguyen.
-
-## Contact
-
-For any inquiries or suggestions, please contact [me](mailto:gopal96685@gmail.com).
 
 
 
